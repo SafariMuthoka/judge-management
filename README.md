@@ -9,7 +9,6 @@ A lightweight web-based admin panel that allows administrators to add judges to 
 (https://safarimuthoka.great-site.net/)
 
 ## 📁 Project Structure
-
 htdocs/
 ├── admin_panel.php # Admin panel to add judges
 ├── db.php # Database connection file
